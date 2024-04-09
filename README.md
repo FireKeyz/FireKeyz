@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @FireKeyz
-- 👀 I’m interested in Software Design & Deveopment Java
+- 👀 I’m interested in Software Design & Deveopment
 - 🌱 I primarily code in Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 FireKeyz/FireKeyz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
